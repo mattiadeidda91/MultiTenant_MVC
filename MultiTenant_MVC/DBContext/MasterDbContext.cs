@@ -20,7 +20,7 @@ namespace MultiTenant_MVC.DBContext
                 {
                     Id = 1,
                     Name = "Admin",
-                    Email = "hazemaster@libero.it",
+                    Email = "test@libero.it",
                     Password = "1234",
                     ConnectionString = "",
                     IsActive = true,
